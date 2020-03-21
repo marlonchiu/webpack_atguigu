@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1584779514783'); /* IE9 */
+  src: url('iconfont.eot?t=1584779514783#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOwAAsAAAAACFwAAANkAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqDaIM0ATYCJAMUCwwABCAFhG0HWhtSBxHVm8PIfiZkcj3sOtc5W4MwVn4TymYbzwTPk92/5w5e9s1GxoTy/Mi92aWCWVHdRwAkuP6/WZudPqMiDN0xHvw3T9lQem6//c8x460F89vWIFPMCgraG+AogWazqosIsjuQE/Ubxq68iJshgKMolZFWbTr1IsJgbBJAJo0fO5woZcTUVAoRQqLkRINswRKpteo2sNn/fflKTYlAYTXGrbqNaT0K/6HWh1Y6ZIRBOhDGswPsNNBAZcCAzCh1TkKHycponDLf4AFHhEKNNa3hB/+hVcaxdEdqZ/7DA0GhMSAJjPLMAHiUMvChlk2FwIeGVCj44KnQ8KGV+MXcxgLggGzABuAa0pYeMzeBQiczG/ikeVg+EyXzGjP21MOUR+sfhPt9Hj/u9eRJ72fP+j592s/SFd0Z8JIzi2x7POTx815PXvR+9qrstJcL950OZ9afSzk7LYtkxk6ONVltnPhqt+4QJhyOs60/KnZEFjIvJKs4csiApr20U30ajx4re5+1vfKkBLE8fTrbNXAqm+6XVWcbFovLKBZ69zCZyqe3lP79pSXP5TtNce6ZPVmff65b1+b50jB32plsqZlNC5Pn8lATL6a2er+rVl3cWLBp8OE8HjvvXTN8GJbm5/3ZyHYeCfz64u/O4aE2RTJvzSC0a/fm0+e//q8z803dOizducu2a9etm62z3ohJt0mTuiGZUB6U7cInnd/VbKgv7peeO+/PMw+wV59X7yGDDro4gI8CMcwo2H+y54idMzRb4/9RbAB4ufV3MJjB0C8VoaC16LeKWnYYVWKYrJFbbaEcslTnpymV0ueAn+nNydtx1Hlax0GIUiIGikwUAU1EaYTBVAZLTG1IENEMHJVoe3pMLmagEZMEKrISgJCdk6DIyjnQZOcOwmDegCUv3yFBdtHg6CO5LhhTVszJtzQ0RC/tX6bu2NWy0AeVNwzvtbGkxCe8YGGKSBan2UyNHTbGnvAZclJF7dikArfDuh5y2jGjYzySZ5kkWvZNcXdsztPS0BC9tH+ZumNXtzd97udvGN5rYzVtFc4XLEyTSxanLRC1cm/Vdi2vCZ8hJ1XUjk0qYMdqJg85y5fN6BiPPeJnmaBu2lYZz6/envEY4DAWW1GixYiVBMmTD0VEuC1h2JFRrtxROAc=') format('woff2'),
+  url('iconfont.woff?t=1584779514783') format('woff'),
+  url('iconfont.ttf?t=1584779514783') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1584779514783#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon-test:before {
+  content: "\e633";
+}
+
+.icon-icon-test1:before {
+  content: "\e63a";
+}
+
+.icon-icon-test2:before {
+  content: "\e640";
+}
+
+.icon-icon-test3:before {
+  content: "\e644";
+}
+
