@@ -1,8 +1,10 @@
-# webpack-atguigu
+# webpack从入门到精通-尚硅谷
 
 ## 写在前面
 
-[尚硅谷webpack教程 | webpack从入门到精通](http://www.gulixueyuan.com/course/358/tasks)
+> [webpack 官方文档](https://webpack.docschina.org/configuration/)
+>
+> [尚硅谷webpack教程 | webpack从入门到精通](http://www.gulixueyuan.com/course/358/tasks)
 
 ## 结构目录
 
@@ -41,6 +43,13 @@
 │   └───26_多进程打包
 │   └───27_externals
 │   └───28_dll
+├───webpack配置详解（隐形目录）
+│   └───29_entry
+│   └───30_output
+│   └───31_module
+│   └───32_resolve  解析模块的规则
+│   └───33_devServer
+│   └───34_optimization
 └───README.md
 
 ```
